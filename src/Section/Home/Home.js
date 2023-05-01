@@ -1,8 +1,8 @@
 import React from 'react';
-import { HiArrowNarrowRight, HiMail, HiPhone, HiArrowCircleDown } from "react-icons/hi";
+import { HiArrowNarrowRight, HiPhone, HiArrowCircleDown } from "react-icons/hi";
 import { FaFacebook, FaLinkedin, FaDribbble ,FaTwitter, FaInstagram} from "react-icons/fa";
 import { TypeAnimation } from 'react-type-animation';
-import profile from '../../Assets/IMG_4454.jpg'
+import profile from '../../Assets/profile.jpg'
 import './Home.css'
 import resume from '../../Assets/Resume-mh-Rashed.pdf'
 

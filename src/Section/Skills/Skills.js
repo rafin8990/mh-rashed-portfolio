@@ -14,7 +14,7 @@ const Skills = () => {
                 <h1 className='text text-4xl font-bold text-center'>MY SKILLS</h1>
             </div>
             <div>
-                <h1 className='text-xl text-center font-semibold'>Language ,FrameWork & Database</h1>
+                <h1 className='text-xl text-center font-semibold'>Digital Marketing</h1>
                 <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-6 gap-5 mt-5 mx-5'>
                     <div className='border border-cyan-900 p-5 rounded-xl shadow-2xl'>
                         <div className='flex justify-center'>
